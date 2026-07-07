@@ -4,7 +4,7 @@
 <!-- ============ TYPING ANIMATION ============ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/the-naveed-afzal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=680&lines=Lead+AI+Engineer+%40+Dzine+Media;I+build+at+the+harness+layer%2C+not+just+the+model;Agentic+systems+%7C+RAG+%7C+MCP+servers+%7C+vLLM;50%2B+AI+products+shipped+at+99.5%25+uptime" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=680&lines=Senior+AI+Engineer+%40+Dzine+Media;I+build+at+the+harness+layer%2C+not+just+the+model;Agentic+systems+%7C+RAG+%7C+MCP+servers+%7C+vLLM;50%2B+AI+products+shipped+at+99.5%25+uptime" alt="typing intro" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 
 I'm an **AI Engineer** who works at the **harness layer** — the system *around* the model that decides whether it actually works when real users hit it.
 
-- 🔭 **Lead AI Engineer @ Dzine Media** — leading a Python team building production AI on **self-hosted, open-source models**
+- 🔭 **Senior AI Engineer @ Dzine Media** — Senioring a Python team building production AI on **self-hosted, open-source models**
 - ⚙️ I self-host the **full inference stack**: vLLM for LLMs, plus image / video / music generation models — **no third-party LLM APIs**
 - 🤖 Agentic systems with **LangGraph** + **custom MCP servers** (built from scratch, not just consumed)
 - 📈 **50+ AI products** shipped to production at **99.5% uptime**
